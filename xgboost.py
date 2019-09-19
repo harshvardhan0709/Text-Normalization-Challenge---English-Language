@@ -70,30 +70,6 @@ print(y_data[0])
 print('labels:')
 print(labels)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 x_train = x_data
 y_train = y_data
 gc.collect()
