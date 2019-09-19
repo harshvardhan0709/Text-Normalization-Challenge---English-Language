@@ -6,11 +6,6 @@ Created on Fri Sep 29 03:38:56 2017
 @author: harsh
 """
 
-
-
-
-
-
 ByOne = [
 "zero",
 "one",
@@ -132,43 +127,6 @@ def splitByThousands(inputNum):
         arrThousands.append(num % 1000)
         num /= 1000
     return arrThousands
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 for i in range(len(l1)):
     l3.append(str(l1[i])+"_"+str(l2[i]))
